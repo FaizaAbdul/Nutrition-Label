@@ -1,0 +1,9 @@
+.label{
+    
+    width: 270px;
+    height: 500px;
+    margin: 0 auto;
+}
+.body{
+    border: 1px solid black
+}
